@@ -1,2 +1,2 @@
 # converter-pdf
-build a converter text file to pdf using go language
+build a converter text file to pdf using go languages
